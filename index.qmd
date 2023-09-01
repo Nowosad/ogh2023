@@ -1,0 +1,44 @@
+---
+title: "Sharing your geospatial knowledge in the open"
+author: "Jakub Nowosad"
+date: "2023-09-01"
+format: revealjs
+---
+
+## Who am I?
+
+- <https://jakubnowosad.com/>
+- <https://geocompx.org/>
+- <https://r.geocompx.org/>
+- <https://py.geocompx.org/>
+
+# Why?
+
+# To give back
+
+# Open Science
+
+# ~~Open~~ Science
+
+## To learn
+
+```{r}
+#| fig-align: center
+knitr::include_graphics("figs/F4txSW_XcA0Crp4.png")
+```
+
+# ~~Fame and money~~
+
+# Just to share stuff
+
+## I have a website
+
+<https://jakubnowosad.com/ogh2023website/>
+
+## And I have a book
+
+<https://jakubnowosad.com/ogh2023book/>
+
+## Closing remarks
+
+Just share
